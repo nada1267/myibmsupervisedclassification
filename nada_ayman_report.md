@@ -13,6 +13,7 @@ When i submit my predictions in the first submission(submission.csv )and second 
 ### What did the exploratory analysis find and how did you add additional features?
 -First part:
 I find exploratory analysis very important and useful and give easy overview for all features in the data and through histogram i discover the distrbution for each feauture.
+
 -second Part:
 i see that the datatime feauture most suitable to divide it for multiple feauters as year,month,day,hour.so in this way i can add additional features 
 
@@ -20,6 +21,7 @@ i see that the datatime feauture most suitable to divide it for multiple feauter
 ### How much better did your model preform after adding additional features and why do you think that is?
 -First part:
 The model's performance has clearly improved and it has been better than before.
+
 -second Part:
 I think because the model train on additional feauters and this can improve the performance especially these feauters has big effect to the result
 
@@ -29,6 +31,7 @@ I think here ass hyper parameters has't improve the model performance as i think
 
 ### If you were given more time with this dataset, where do you think you would spend more time?
 -may be i will search if i can make it more bigger.
+
 -study topics related the market demand i think it may be useful.
 
 
@@ -41,10 +44,12 @@ I think here ass hyper parameters has't improve the model performance as i think
 
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
- 
+ ![image](https://github.com/nada1267/myibmsupervisedclassification/assets/99268869/5e74a677-cc7b-40ee-921d-017a026672f1)
+
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
  
+![image](https://github.com/nada1267/myibmsupervisedclassification/assets/99268869/a1ee6813-05d1-48d5-a5c4-9ec1901865db)
 
 ## Summary
 AutoGluon  enable us to train many models so i can choose the best model for the problem and applying techniques as add new feutures can improve the performance of the model and set highparameters can effect on the performance but may be this effect not desirable so we should set it carfully.
